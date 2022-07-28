@@ -2,6 +2,13 @@
 안드레아스M.안토니우스, 개빈 우드
 [노션 링크](https://www.notion.so/e8abfc715c7d434495f7c70eba5a3f92)
 
+
+
+
+
+
+
+
 ## Chapter1. 이더리움이란 무엇인가?
 
 [Chapter1. 이더리움이란 무엇인가?](https://github.com/gokite227/Mastering_Ethereum/tree/main/Chapter1)
